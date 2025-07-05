@@ -1,11 +1,13 @@
-## The Game Design Document for The Feral Cosmos of The Innerwebs
+# The Game Design Document for The Feral Cosmos of The Innerwebs
 
 **Title:** The Feral Cosmos of The Innerwebs [FCI]
 **World Name:** Innerwebs Cosmogg
 **Developer:** Hisl
-**Co-designers:** Chair, Ollie, Shaka Hislop
+**Co-designers:** Chair, Ollie
 
 **Description:**  A silly and odd vaporwave-inspired action-adventure open world game where players must survive during their adventure across the vast islands of the Innerwebs cosmic sky archipelago to uncover the secrets of the ancient beginning. 
+
+----
 
 # Game Overview
 
@@ -26,12 +28,12 @@ Explore > Find Strange Locations or Items > Interact or Solve Puzzle > Uncover
 - Inventory and Tool System
 - Ambient Music and Sound Effects
 
----------------------------------------------------------------------
+----
 
 # World Design
 
 # Layout: Open World with 4 Biomes
-- [Main Cosmic Odd plains islands] Name: **_Central Cosmogg_**
+- [Main Cosmic Odd plains islands] Name: **_Central Cosmogg_**  
 - [Ancient and Neon City islands] Name: **Ancient _Mint_**
 - [Lush, Colorful and Strange Forest islands] Name: **_Xeno-Dath_ Groves**
 - [The mysterious deep spring islands] Name: **Isles _Fukai_**
@@ -49,101 +51,108 @@ Explore > Find Strange Locations or Items > Interact or Solve Puzzle > Uncover
 - Path Blockages manmade (gate puzzle, plug in cable, etc)
 - Hidden Items
 
----------------------------------------------------------------------
+----
 
-Mechanics: [Player can..]
+# Mechanics: [Player can..]
 
-Movement:
-Walk
-Run
-Climb (Stamina Based)
-Crouch (Slower, quieter, less visibility)
-Glide (swimming through the air, no upward movement)
-Jump
-Double jump (Jump in the air once)
-Swim (Water movement)
-Ride creatures (Some creatures allow faster travel, air, ground, or water)
-
-
-continued…
-Interaction:
-Pick Up
-Examine
-Use Item/Tool
-Trigger
+# Movement:
+- Walk
+- Run
+- Climb (Stamina Based)
+- Crouch (Slower, quieter, less visibility)
+- Glide (swimming through the air, no upward movement)
+- Jump
+- Double jump (Jump in the air once)
+- Swim (Water movement)
+- Ride creatures (Some creatures allow faster travel, air, ground, or water)
 
 
----------------------------------------------------------------------
+# Interaction:
+- Pick Up
+- Examine
+- Use Item/Tool
+- Trigger
 
 
-Items || Tools || Abilities
-
-Main Weapons:
-Dual Blades - (2 swords held by both hands, agile quick hits)
-Double Ended Saber - (Sword with a blade on both sides, dynamic fighting)
-Long Cat - (Flexible bat held with both hands, heavy and wide takeout)
-Dual Shaft - (Medium range combat pistol, no ammo needed
-
-Main Tools:
-Grapple Gun - (to make fast travel easier and more fun)
-Disc - (rotating saw bladeA for demolishing things anything)
-Cassette Tape - (Music!)
-Map - (A map of the parts of the cosmos you have explored)
-Camera (logging/saving)
-
-Abilities:
-eight - (electricity manipulation, can be used for attacks, speed, moving object, )
-
----------------------------------------------------------------------
-
-Art and Audio
-
-Visual Style: Innerwebs, pastel, vibrant/neon, glitch textures, checkers
-Characters: Low Poly or chunky and colorful design, or 2d pixelated design
-Surrounding: Low poly and colorful or neon, striking
-
-Audio: Ambient lofi or low scale vaporwave, no vocals
-Sound Effects: strange, odd, distorted, satisfying click
----------------------------------------------------------------------
-Backstory + Current Story
-
-Backstory: The Cosmos Island Archipelago had three kingdoms, the lush forest, the cosmic purple plains (ascended from the Innerwebs), and the urban towns of the first settlers (now known as the neo ruins). The three were connected and protected the ancient archipelago for many centuries.. Until a foreign force invaded the area and disconnected the three kingdoms. Now the player must travel to each kingdom and help them to connect and take down the evil.
+----
 
 
-Current story progression: Told through side characters, quests, or the environment.
+# Items + Tools + Abilities
 
----------------------------------------------------------------------
+# Main Weapons:
+- **Dual Blades** - (2 swords held by both hands, agile quick hits)
+- **Double Ended Saber** - (Sword with a blade on both sides, dynamic fighting)
+- **Long Cat** - (Flexible bat held with both hands, heavy and wide takeout)
+- **Dual Shaft** - (Medium range combat pistol, no ammo needed
+
+# Main Tools:
+- **Grapple Gun** - (to make fast travel easier and more fun)
+- **Disc** - (rotating saw bladeA for demolishing things anything)
+- **Cassette Tape** - (Music!)
+- **Map** - (A map of the parts of the cosmos you have explored)
+- **Camera** (logging/saving)
+
+# Abilities:
+- **Eight** - (electricity manipulation, can be used for attacks, speed, moving object, )
+
+----
+
+# Art and Audio
+
+# **Visual Style**: 
+Innerwebs, pastel, vibrant/neon, glitch textures, checkers
+# **Characters**: 
+Low Poly or chunky and colorful design, or 2d pixelated design
+# **Surrounding**: 
+Low poly and colorful or neon, striking
+
+# **Audio**: 
+Ambient lofi or low scale vaporwave, no vocals
+# **Sound Effects**: 
+strange, odd, distorted, satisfying click
+
+----
+
+# Backstory + Current Story
+
+# Backstory:
+ The Cosmos Island Archipelago had three kingdoms, the lush forest, the cosmic purple plains (ascended from the Innerwebs), and the urban towns of the first settlers (now known as the neo ruins). The three were connected and protected the ancient archipelago for many centuries.. Until a foreign force invaded the area and disconnected the three kingdoms. Now the player must travel to each kingdom and help them to connect and take down the evil.
 
 
-Technical || Tools
+# Current story progression: 
+Told through side characters, quests, or the environment.
 
-Game Engine: Unity
-
-
-Other Tools:
-Blender - (for custom modeling)
-Audacity - (for sound editing)
-Git - (for version control)
-Asset Store - (stylized packs / tools)
+----
 
 
----------------------------------------------------------------------
+# Technical + Tools
 
-Plan || Milestones:
+# Game Engine: Unity
 
-Prototype (1 month): Movement, simple interaction, a puzzle
-Vertical Slice (2-3 months): One full biome with story, visuals, and music
-Alpha (6 months): All zones, core systems complete
-Beta (8–10 months):All content in, bug fixing begins
-Release (12 months): Polished demo or full game
-–t
----------------------------------------------------------------------
+# Other Tools:
+- **Blender** - (for custom modeling)
+- **Audacity** - (for sound editing)
+- **Git** - (for version control)
+- **Asset Store** - (stylized packs / tools)
 
-Inspiration || References
 
-Tears of the Kingdom - freedom of movement, environmental systems
-Broken Reality - Aesthetic and Surreal Tone
-Help: ChatGPT
+----
+
+# Plan + Milestones:
+
+- **Prototype** (1 month): Movement, simple interaction, a puzzle
+- **Vertical Slice** (2-3 months): One full biome with story, visuals, and music
+- **Alpha** (6 months): All zones, core systems complete
+- **Beta** (8–10 months):All content in, bug fixing begins
+- **Release** (12 months): Polished demo or full game
+
+----
+
+# Inspiration + References
+
+- **Tears of the Kingdom** - freedom of movement, environmental systems
+- **Broken Reality** - Aesthetic and Surreal Tone
+- **Help**: ChatGPT
 
 
 
