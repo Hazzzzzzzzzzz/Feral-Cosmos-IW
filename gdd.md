@@ -31,11 +31,11 @@ Explore > Find Strange Locations or Items > Interact or Solve Puzzle > Uncover
 World Design
 
 Layout: Open World with 4 Biomes
-[Main Cosmic Odd plains islands] Name: Central Cosmogg  
-[Ancient and Neon City islands] Name: Ancient Mint
-[Lush, Colorful and Strange Forest islands] Name: Xeno-Dath Groves
-[The mysterious deep spring islands] Name: Isles Fukai
-[Suburban small cozy town] Name: Settlement of Kogai
+[Main Cosmic Odd plains islands] Name: **_Central Cosmogg_**
+[Ancient and Neon City islands] Name: **Ancient _Mint_**
+[Lush, Colorful and Strange Forest islands] Name: **_Xeno-Dath_ Groves**
+[The mysterious deep spring islands] Name: **Isles _Fukai_**
+[Suburban small cozy town] Name: **Settlement of _Kogai_**
 
 Points of Interest: POIs
 Strange Boxes [random items]
