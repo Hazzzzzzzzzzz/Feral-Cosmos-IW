@@ -1,4 +1,4 @@
-# The Game Design Document for The Feral Cosmos of The Innerwebs
+## The Game Design Document for The Feral Cosmos of The Innerwebs
 
 **Title:** The Feral Cosmos of The Innerwebs [FCI]
 **World Name:** Innerwebs Cosmogg
@@ -28,26 +28,26 @@ Explore > Find Strange Locations or Items > Interact or Solve Puzzle > Uncover
 
 ---------------------------------------------------------------------
 
-World Design
+# World Design
 
-Layout: Open World with 4 Biomes
-[Main Cosmic Odd plains islands] Name: **_Central Cosmogg_**
-[Ancient and Neon City islands] Name: **Ancient _Mint_**
-[Lush, Colorful and Strange Forest islands] Name: **_Xeno-Dath_ Groves**
-[The mysterious deep spring islands] Name: **Isles _Fukai_**
-[Suburban small cozy town] Name: **Settlement of _Kogai_**
+# Layout: Open World with 4 Biomes
+- [Main Cosmic Odd plains islands] Name: **_Central Cosmogg_**
+- [Ancient and Neon City islands] Name: **Ancient _Mint_**
+- [Lush, Colorful and Strange Forest islands] Name: **_Xeno-Dath_ Groves**
+- [The mysterious deep spring islands] Name: **Isles _Fukai_**
+- [Suburban small cozy town] Name: **Settlement of _Kogai_**
 
-Points of Interest: POIs
-Strange Boxes [random items]
-Ancient Ruins [usually have materials, creatures]
-Waypoints [teleportation]
-Material Deposits [ore, wood, creature etc.]
-Springs [cave-like materials]
+# Points of Interest: POIs
+- Strange Boxes [random items]
+- Ancient Ruins [usually have materials, creatures]
+- Waypoints [teleportation]
+- Material Deposits [ore, wood, creature etc.]
+- Springs [cave-like materials]
 
-Environment Puzzles:
-Path Blockages natural (boulder, vines, etc.)
-Path Blockages manmade (gate puzzle, plug in cable, etc)
-Hidden Items
+# Environment Puzzles:
+- Path Blockages natural (boulder, vines, etc.)
+- Path Blockages manmade (gate puzzle, plug in cable, etc)
+- Hidden Items
 
 ---------------------------------------------------------------------
 
