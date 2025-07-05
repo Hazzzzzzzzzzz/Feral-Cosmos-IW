@@ -3,7 +3,7 @@
 **Title:** The Feral Cosmos of The Innerwebs [FCI]
 **World Name:** Innerwebs Cosmogg
 **Developer:** Hisl
-**Co-designers:** Chair, Ollie
+**Co-designers:** Chair, Ollie, Shaka Hislop
 
 **Description:**  A silly and odd vaporwave-inspired action-adventure open world game where players must survive during their adventure across the vast islands of the Innerwebs cosmic sky archipelago to uncover the secrets of the ancient beginning. 
 
