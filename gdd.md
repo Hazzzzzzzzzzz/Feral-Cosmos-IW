@@ -12,8 +12,11 @@
 # Game Overview
 
 **Genre:** 3D Open World || Action-Adventure 
+
 **Target Platform:** Steam
+
 **Art Style:** Vaporwave || Odd || Innerwebs || Strange || Silly
+
 **Tones:** Innerwebs
 
 # Core Gameplay Loop
